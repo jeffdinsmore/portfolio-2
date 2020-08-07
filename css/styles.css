@@ -1,5 +1,6 @@
 .img-myself {
   width:40%;
+  float: right;
 }
 hr {
   width: 100%;
@@ -9,4 +10,17 @@ hr {
 
 header {
   color: #8FB7AE;
+}
+.navbar-left {
+  float: left;
+  margin-left: 5%;
+}
+.navbar-right {
+  float: right;
+  margin-top: 9px;
+  margin-right: 5%;
+}
+.container {
+  margin-left: 5%;
+  margin-right: 5%;
 }
