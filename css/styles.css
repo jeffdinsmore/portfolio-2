@@ -28,6 +28,16 @@ h2, h3, h4 {
   margin-bottom: 20px;
 }
 
+.box {
+  border: 2px solid lightblue;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lightblue;
+  box-sizing: border-box;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
 @media (max-width: 768px) {
   h1.navbar-left, h2.navbar-right {
     font-size: 22px;
