@@ -1,6 +1,6 @@
 .img-myself {
   width:80%;
-  padding: 0px 0px 10px 0px;
+  padding: 0px 0px 30px 0px;
   margin-left: 5%;
 }
 hr {
@@ -29,13 +29,27 @@ h2, h3, h4 {
 }
 
 .box {
-  border: 2px solid lightblue;
+  border: 6px solid royalblue;
   padding-left: 10px;
   padding-right: 10px;
   background-color: lightblue;
-  box-sizing: border-box;
   margin-left: -10px;
   margin-right: -10px;
+  box-sizing: border-box;
+}
+.container-projects {
+  background-color:#e9ecef;
+  padding: 30px;
+  margin-left: -10px;
+  margin-right: -10px;
+  border: 6px solid gray;
+  box-sizing: border-box;
+}
+
+footer {
+  background-color:  #8FB7AE;
+  height: 70px;
+  margin-top: 60px;
 }
 
 @media (max-width: 768px) {
