@@ -1,3 +1,11 @@
 .img-myself {
   width:40%;
 }
+hr {
+  width: 100%;
+  border-top: 2px solid #8FB7AE;
+}
+
+header {
+  color: #8FB7AE;
+}
