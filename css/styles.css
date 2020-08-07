@@ -1,8 +1,6 @@
-
-
 .img-myself {
   width:80%;
-  padding: 0px 0px 30px 0px;
+  padding: 0px 0px 10px 0px;
   margin-left: 5%;
 }
 hr {
@@ -16,12 +14,13 @@ header {
 }
 .navbar-left {
   float: left;
-  margin-left: 5%;
+  margin-left: 10%;
+  margin-top: 9px;
 }
 .navbar-right {
   float: right;
-  margin-top: 9px;
-  margin-right: 5%;
+  margin-top: 18px;
+  margin-right: 10%;
 }
 .container {
   margin-left: 5%;
@@ -30,4 +29,16 @@ header {
 p, h1, h2, h3, h4, h5, h6, ul {
   margin-left: 5%;
   margin-right: 5%;
+}
+
+h2, h3, h4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  h1.navbar-left, h2.navbar-right {
+    font-size: 24px;
+    margin-top: 14px;
+  }
 }
