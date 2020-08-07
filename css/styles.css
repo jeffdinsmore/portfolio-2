@@ -4,6 +4,7 @@
 hr {
   width: 100%;
   border-top: 2px solid #8FB7AE;
+  clear: both;
 }
 
 header {
