@@ -6,7 +6,7 @@
 
 ## Description
 
-add gh-pages
+https://jeffdinsmore.github.io/portfolio-2/
 
 This website lists the projects that Jeff Dinsmore has pushed to Github. The site has an About Me seciton to list Jeff's work experience, a photo and some interests.
 
